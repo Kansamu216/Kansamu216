@@ -13,7 +13,7 @@ Minecraft 模组 · 系统折腾 · 自己要用的服务
 
 ---
 
-主要做 Minecraft 模组,顺手把一台 13 寸商务本折腾成了 Mac,也维护几个自己要用的服务。踩过的坑都写清楚,省得下次再踩。
+主要做 Minecraft 模组,也折腾点系统、维护几个自己要用的服务。踩过的坑都写清楚,省得下次再踩。
 
 ## 主要项目
 
@@ -24,7 +24,7 @@ Minecraft 模组 · 系统折腾 · 自己要用的服务
 
 **系统与驱动**
 
-- **[Dynabook G83/HU · macOS Tahoe](https://github.com/Kansamu216/dynabook-g83-macos-tahoe)** — 13.3" 商务本跑 macOS Tahoe 26 的 OpenCore EFI 与定制核显驱动,另维护 [WhateverXe 适配分支](https://github.com/Kansamu216/WhateverXe-1145G7-fork)
+- **[Dynabook G83/HU · macOS Tahoe](https://github.com/Kansamu216/dynabook-g83-macos-tahoe)** — OpenCore EFI 与核显驱动适配
 
 **站点与服务**
 
